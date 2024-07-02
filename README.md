@@ -16,3 +16,6 @@
    ```bash
    git clone https://github.com/your-username/linked-list-visualizer.git
    cd linked-list-visualizer
+2.**Run the visualizer:**
+```bash
+python -m src.main
