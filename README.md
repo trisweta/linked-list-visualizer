@@ -19,7 +19,7 @@
 2.**Run the visualizer:**
 ```bash
 python -m src.main
-
+```
 ![image](https://github.com/trisweta/linked-list-visualizer/assets/92795084/bd545307-9dda-4eec-97c6-4fe9e52b9ab7)
 
 
